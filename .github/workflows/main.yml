@@ -1,0 +1,31 @@
+name: Generate contribution snake
+
+on:
+  schedule:
+    - cron: "0 */6 * * *"   # 每6小时更新一次
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Generate snake SVG
+        uses: Platane/snk@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/github-snake.svg?color_snake=#cba6f7&color_dots=#1e1e2e,#302d41,#575268,#7b2cbf,#cba6f7
+            dist/github-snake-dark.svg?palette=github-dark&color_snake=#cba6f7&color_dots=#1e1e2e,#302d41,#575268,#7b2cbf,#cba6f7
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Publish to output branch
+        uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
