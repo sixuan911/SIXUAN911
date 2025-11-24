@@ -1,6 +1,5 @@
 permissions:
   contents: write
-
 name: Generate contribution snake
 
 on:
