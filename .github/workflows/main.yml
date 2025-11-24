@@ -18,10 +18,9 @@ jobs:
         uses: Platane/snk@v3
         with:
           github_user_name: ${{ github.repository_owner }}
-          outputs: |
-           dist/github-snake.svg?color_snake=#cba6f7&color_dots=#2b213a,#4a3f6b,#593c8c,#8f5bd1,#cba6f7
-           dist/github-snake-dark.svg?palette=github-dark&color_snake=#cba6f7&color_dots=#2b213a,#4a3f6b,#593c8c,#8f5bd1,#cba6f7
-           
+         outputs: |
+          dist/github-snake.svg?color_snake=#cba6f7&color_dots=#3a3352,#554a7a,#6a4fb3,#9a75e6,#cba6f7
+          dist/github-snake-dark.svg?palette=github-dark&color_snake=#cba6f7&color_dots=#3a3352,#554a7a,#6a4fb3,#9a75e6,#cba6f7
         env:
          GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
 
