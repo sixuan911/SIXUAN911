@@ -11,4 +11,5 @@
 
 <img width="74" height="73" alt="image" src="https://github.com/user-attachments/assets/6e7bfe4c-933a-4560-a241-28d927c68d79" />
 
-/Users/liusixuan/Desktop/6BA1BC9A-2B09-47B4-ADCF-872D2E2854D0.png
+
+<img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/0afcdbff-63a5-45b6-9282-31f758cd86e9" />
