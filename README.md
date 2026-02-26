@@ -9,6 +9,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=D09BF7&width=435&lines=+%E4%BD%A0%E5%A5%BD%E5%91%80%EF%BC%8C%E6%AC%A2%E8%BF%8E%E6%9D%A5%E5%88%B0%E6%88%91%E7%9A%84%E7%95%8C%E9%9D%A2+(+%5E+~+%5E+);+Hello%2C+welcome+to+my+profile+(%5E+~+%5E))](https://git.io/typing-svg)
 
 <p align="left">
-  <img src="https://github.com/user-attachments/assets/6e7bfe4c-933a-4560-a241-28d927c68d79" width="110" />
-  <img src="https://github.com/user-attachments/assets/0afcdbff-63a5-45b6-9282-31f758cd86e9" width="110" style="margin-left:12px;" />
+  <img height="90" alt="xuan" src="https://github.com/user-attachments/assets/6e7bfe4c-933a-4560-a241-28d927c68d79" />
+  <img height="90" alt="durian" src="https://github.com/user-attachments/assets/0afcdbff-63a5-45b6-9282-31f758cd86e9" style="margin-left:12px;" />
 </p>
