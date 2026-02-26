@@ -10,3 +10,5 @@
 
 
 <img width="74" height="73" alt="image" src="https://github.com/user-attachments/assets/6e7bfe4c-933a-4560-a241-28d927c68d79" />
+
+<img width="74" height="73" alt="爆炸榴莲 logo" src="https://github.com/user-attachments/assets/8080bec0-7269-4b34-80db-ea7ca689dc44" />
