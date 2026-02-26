@@ -11,4 +11,4 @@
 
 <img width="74" height="73" alt="image" src="https://github.com/user-attachments/assets/6e7bfe4c-933a-4560-a241-28d927c68d79" />
 
-<img width="100" height="100" alt="爆炸榴莲 logo" src="https://github.com/user-attachments/assets/8080bec0-7269-4b34-80db-ea7ca689dc44" />
+/Users/liusixuan/Desktop/6BA1BC9A-2B09-47B4-ADCF-872D2E2854D0.png
